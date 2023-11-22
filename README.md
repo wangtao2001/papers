@@ -53,3 +53,5 @@
 ***MINN-DTI*** 使用蛋白质的成对距离图（表示3D信息）和药物分子图作为输入
 
 ***AdaptFormer*** 视觉adapter微调方法
+
+***Deep-DTA*** 
