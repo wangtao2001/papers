@@ -57,3 +57,5 @@
 ***Deep-DTA*** 使用卷积处理蛋白质和分子的序列，预测药物和靶点的亲和力得分（回归任务）
 
 ***Towards Segment Anything Model (SAM) for Medical Image Segmentation*** 综述，将SAM运用到医学图像分割领域
+
+**An Exploration of 2D and 3D Deep Learning Techniques for Cardiac MR Image Segmentation** 使用UNet处理ACDC数据集
