@@ -58,4 +58,8 @@
 
 ***Towards Segment Anything Model (SAM) for Medical Image Segmentation*** 综述，将SAM运用到医学图像分割领域
 
-**An Exploration of 2D and 3D Deep Learning Techniques for Cardiac MR Image Segmentation** 使用UNet处理ACDC数据集
+***An Exploration of 2D and 3D Deep Learning Techniques for Cardiac MR Image Segmentation*** 使用UNet处理ACDC数据集
+
+***UNet++*** UNet改进版本，来自编码器的特征图在连接之前融合了更多信息
+
+***InstrucrGPT*** 使用基于人类反馈的强化学习将GPT3训练成更加符合人类意图（显式和隐式）的对话模型
