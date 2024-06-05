@@ -105,3 +105,7 @@
 ***TypeConstrained*** 类型限制方法，在替换实体仅仅替换那些在KG 中与该关系同时出现过的实体
 
 **Bert-WWM** 使用全词掩码（whole word mask）训练BERT模型，并使用LTP的分词作为最小的掩盖单元
+
+**Relation Classification via Convolutional Deep Neural Network** 将关系抽取考虑为分类任务，同时基于词嵌入设计实体词特征和整体的句特征，最后拼接做分类
+
+***DeepKE***
