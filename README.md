@@ -108,4 +108,8 @@
 
 **Relation Classification via Convolutional Deep Neural Network** 将关系抽取考虑为分类任务，同时基于词嵌入设计实体词特征和整体的句特征，最后拼接做分类
 
-***DeepKE***
+***DeepKE*** 知识抽取工具包
+
+***GPT-NER*** 将序列标注的任务转换为生成任务，即要求LLM使用特殊字符将实体包裹起来，其余部分的输出与输入完全相同，还提出了样本检索的策略
+
+***Large Language Models for Generative Information Extraction: A Survey*** 
