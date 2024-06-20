@@ -112,4 +112,8 @@
 
 ***GPT-NER*** 将序列标注的任务转换为生成任务，即要求LLM使用特殊字符将实体包裹起来，其余部分的输出与输入完全相同，还提出了样本检索的策略
 
-***Large Language Models for Generative Information Extraction: A Survey*** 
+***Large Language Models for Generative Information Extraction: A Survey*** 大模型信息抽取综述，从信息抽取子任务和学习范式两个不同的维度
+
+***Empirical Study of Zero-Shot NER with ChatGPT*** 提出了三种增强 LLM 在 NER 任务上的 zero-shot 能力
+
+***Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models*** 提出了在严格的zero shot的情况下，无训练而可以自我提升的框架
