@@ -117,3 +117,9 @@
 ***Empirical Study of Zero-Shot NER with ChatGPT*** 提出了三种增强 LLM 在 NER 任务上的 zero-shot 能力
 
 ***Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models*** 提出了在严格的zero shot的情况下，无训练而可以自我提升的框架
+
+***Self-Consistency Improves Chain of Thought Reasoning in Language Models*** 用思维链提示中的自洽解码替代简单的贪婪解码
+
+***GPT-RE*** 优化使用大模型做关系抽取时示例的检索策略
+
+***QA4RE*** 将关系抽取作为多项选择题，即为实体对选择正确的关系
