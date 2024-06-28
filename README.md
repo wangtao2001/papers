@@ -123,3 +123,7 @@
 ***GPT-RE*** 优化使用大模型做关系抽取时示例的检索策略
 
 ***QA4RE*** 将关系抽取作为多项选择题，即为实体对选择正确的关系
+
+**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** 广义思维链综述
+
+***ChatIE*** 
