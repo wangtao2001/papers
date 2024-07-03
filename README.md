@@ -126,4 +126,4 @@
 
 **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** 广义思维链综述
 
-***ChatIE*** 
+***ChatIE*** 通过两阶段的框架（ChatIE）将zero-shot的IE任务转换为多轮问答问题
