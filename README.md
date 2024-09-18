@@ -129,3 +129,5 @@
 ***ChatIE*** 通过两阶段的框架（ChatIE）将zero-shot的IE任务转换为多轮问答问题
 
 ***GraphRAG*** 使用LLM构建知识图谱，解决传统RAG不能回答文档高层次的问题
+
+**AgentRE** 使用Anget进行信息抽取
