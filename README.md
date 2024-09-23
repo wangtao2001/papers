@@ -132,4 +132,4 @@
 
 **AgentRE** 使用Anget进行信息抽取
 
-**ReAct** 将大模型的推理和决策结合
+**ART** / **ReAct** 将大模型的推理（CoT）和决策（Action 行动）结合
