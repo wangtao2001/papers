@@ -133,3 +133,5 @@
 **AgentRE** 使用Anget进行信息抽取
 
 **ART** / **ReAct** 将大模型的推理（CoT）和决策（Action 行动）结合
+
+**GOT** 编码器-解码器架构的纯OCR模型，拒绝使用视觉大模型做OCR（因其本质任务还是VQA），编码器使用 VitDet（local attention） 解码器使用Qwen-0.5B
