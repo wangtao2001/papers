@@ -124,14 +124,18 @@
 
 ***QA4RE*** 将关系抽取作为多项选择题，即为实体对选择正确的关系
 
-**A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future** 广义思维链综述
+***A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future*** 广义思维链综述
 
 ***ChatIE*** 通过两阶段的框架（ChatIE）将zero-shot的IE任务转换为多轮问答问题
 
 ***GraphRAG*** 使用LLM构建知识图谱，解决传统RAG不能回答文档高层次的问题
 
-**AgentRE** 使用Anget进行信息抽取
+***AgentRE*** 使用Anget进行信息抽取
 
-**ART** / **ReAct** 将大模型的推理（CoT）和决策（Action 行动）结合
+***ART** / **ReAct*** 将大模型的推理（CoT）和决策（Action 行动）结合
 
-**GOT** 编码器-解码器架构的纯OCR模型，拒绝使用视觉大模型做OCR（因其本质任务还是VQA），编码器使用 VitDet（local attention） 解码器使用Qwen-0.5B
+***GOT*** 编码器-解码器架构的纯OCR模型，拒绝使用视觉大模型做OCR（因其本质任务还是VQA） ，编码器使用 VitDet（local attention） 解码器使用Qwen-0.5B
+
+***Cross-Domain Document Object Detection: Benchmark Suite and Method*** 跨领域文档目标检测，使用source domain labled data 和 target domain unlabled data 训练
+
+***DERT***  使用transformer进行端到端目标检测
