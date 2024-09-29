@@ -139,3 +139,5 @@
 ***Cross-Domain Document Object Detection: Benchmark Suite and Method*** 跨领域文档目标检测，使用source domain labled data 和 target domain unlabled data 训练
 
 ***DERT***  使用transformer进行端到端目标检测
+
+***GAN*** 生成模型和自然模型对抗以最好的捕获数据分布
