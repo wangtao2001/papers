@@ -141,3 +141,5 @@
 ***DERT***  使用transformer进行端到端目标检测
 
 ***GAN*** 生成模型和自然模型对抗以最好的捕获数据分布
+
+***Unsupervised Domain Adaptation by Backpropagation*** 类似GAN的思想训练一个分类器来实现domain adaptation，同时提出了梯度反转的trick
