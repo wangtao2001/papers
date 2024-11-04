@@ -145,3 +145,5 @@
 ***Unsupervised Domain Adaptation by Backpropagation*** 类似GAN的思想训练一个分类器来实现domain adaptation，同时提出了梯度反转的trick
 
 ***Multiscal Domain Adaptive YOLO for Cross-Ddmain Object Detection*** 域适应的yolov4
+
+***PrimeKG*** 聚焦疾病的生物医学知识图谱
