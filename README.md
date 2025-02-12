@@ -151,3 +151,5 @@
 ***SAC-KG*** 使用生成器、验证器、修剪器使用大模型从一个实体开始不断迭代生成三元组
 
 ***A novel prompting method for few-shot NER via LLMs*** 提出了三种增强promot用以进行NER的方法
+
+**DeepSeek-R1** 纯RL复现o1推理模型
