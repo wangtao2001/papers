@@ -153,3 +153,7 @@
 ***A novel prompting method for few-shot NER via LLMs*** 提出了三种增强promot用以进行NER的方法
 
 **DeepSeek-R1** 纯RL复现o1推理模型
+
+***DDPM*** 去噪扩散模型
+
+***DiT*** 基于Transformer的扩散模型，替换传统的UNet网络
