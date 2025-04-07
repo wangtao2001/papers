@@ -157,3 +157,5 @@
 ***DDPM*** 去噪扩散模型
 
 ***DiT*** 基于Transformer的扩散模型，替换传统的UNet网络
+
+***DITAM*** 一个统一的DTI、DTA和MoA预测框架
