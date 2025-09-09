@@ -159,3 +159,9 @@
 ***DiT*** 基于Transformer的扩散模型，替换传统的UNet网络
 
 ***DITAM*** 一个统一的DTI、DTA和MoA预测框架
+
+**Multimodal Contrastive Representation Learning in Augmented Biomedical Knowledge Graphs** 使用预训练语言模型和图对比学习增强链接预测任务
+
+***DGI*** 图对比学习
+
+***LongCat*** 美团开源模型
