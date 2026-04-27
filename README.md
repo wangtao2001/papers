@@ -165,3 +165,5 @@
 ***DGI*** 图对比学习
 
 ***LongCat-Flash / LongCat-Flash-Think*** 美团开源模型
+
+***LLaDA*** 扩散语言模型
